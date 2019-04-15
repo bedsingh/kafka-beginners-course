@@ -1,0 +1,77 @@
+2019-04-13 21:38:01.820 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:50] - Starting KafkaBeginnersCourseApplication on Ved with PID 17120 (C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course\target\classes started by BED in C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course) 
+2019-04-13 21:38:01.821 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:679] - The following profiles are active: test 
+2019-04-13 21:38:02.845 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:59] - Started KafkaBeginnersCourseApplication in 1.535 seconds (JVM running for 2.882) 
+2019-04-13 21:38:02.894 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:56] - Application completed... 
+2019-04-13 21:38:02.919 [kafka-producer-network-thread | producer-1] [INFO ] [c.j.k.s.MessageProducerService:57] - Sent message=[ This is sample message. ] with offset=[ 2 ]  
+2019-04-13 21:48:46.885 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:50] - Starting KafkaBeginnersCourseApplication on Ved with PID 644 (C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course\target\classes started by BED in C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course) 
+2019-04-13 21:48:46.905 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:679] - The following profiles are active: test 
+2019-04-13 21:48:48.010 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:59] - Started KafkaBeginnersCourseApplication in 1.669 seconds (JVM running for 2.891) 
+2019-04-13 21:48:48.093 [kafka-producer-network-thread | producer-1] [INFO ] [c.j.k.s.MessageProducerService:57] - Sent message=[ This is sample message. ] with offset=[ 2 ]  
+2019-04-13 21:57:51.636 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:50] - Starting KafkaBeginnersCourseApplication on Ved with PID 17512 (C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course\target\classes started by BED in C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course) 
+2019-04-13 21:57:51.641 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:679] - The following profiles are active: test 
+2019-04-13 21:57:52.355 [main] [INFO ] [c.j.k.c.ApplicationConfig:66] - Creating Factory... 
+2019-04-13 21:57:52.743 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:59] - Started KafkaBeginnersCourseApplication in 1.726 seconds (JVM running for 3.032) 
+2019-04-13 21:57:52.826 [kafka-producer-network-thread | producer-1] [INFO ] [c.j.k.s.MessageProducerService:57] - Sent message=[ This is sample message. ] with offset=[ 3 ]  
+2019-04-13 22:02:07.105 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:50] - Starting KafkaBeginnersCourseApplication on Ved with PID 16832 (C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course\target\classes started by BED in C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course) 
+2019-04-13 22:02:07.109 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:679] - The following profiles are active: test 
+2019-04-13 22:02:07.833 [main] [INFO ] [c.j.k.c.ApplicationConfig:66] - Creating Factory... 
+2019-04-13 22:02:08.245 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:59] - Started KafkaBeginnersCourseApplication in 1.63 seconds (JVM running for 2.789) 
+2019-04-13 22:02:08.340 [kafka-producer-network-thread | producer-1] [INFO ] [c.j.k.s.MessageProducerService:57] - Sent message=[ This is sample message. ] with offset=[ 3 ]  
+2019-04-13 22:02:15.997 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:50] - Starting KafkaBeginnersCourseApplication on Ved with PID 16580 (C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course\target\classes started by BED in C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course) 
+2019-04-13 22:02:16.000 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:679] - The following profiles are active: test 
+2019-04-13 22:02:16.717 [main] [INFO ] [c.j.k.c.ApplicationConfig:66] - Creating Factory... 
+2019-04-13 22:02:17.107 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:59] - Started KafkaBeginnersCourseApplication in 1.587 seconds (JVM running for 2.803) 
+2019-04-13 22:02:17.201 [kafka-producer-network-thread | producer-1] [INFO ] [c.j.k.s.MessageProducerService:57] - Sent message=[ This is sample message. ] with offset=[ 4 ]  
+2019-04-13 22:02:17.209 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [INFO ] [c.j.k.s.MessageConsumerService:35] - Consumed message -> This is sample message. 
+2019-04-13 22:04:17.917 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:50] - Starting KafkaBeginnersCourseApplication on Ved with PID 5944 (C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course\target\classes started by BED in C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course) 
+2019-04-13 22:04:17.921 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:679] - The following profiles are active: test 
+2019-04-13 22:04:19.011 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:59] - Started KafkaBeginnersCourseApplication in 1.601 seconds (JVM running for 2.822) 
+2019-04-13 22:04:19.124 [kafka-producer-network-thread | producer-1] [INFO ] [c.j.k.s.MessageProducerService:57] - Sent message=[ This is sample message. ] with offset=[ 5 ]  
+2019-04-13 22:04:19.135 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [INFO ] [c.j.k.s.MessageConsumerService:35] - Consumed message -> This is sample message. 
+2019-04-13 22:04:19.136 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [INFO ] [c.j.k.s.MessageConsumerService:35] - Consumed message -> This is sample message. 
+2019-04-13 22:04:33.213 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:50] - Starting KafkaBeginnersCourseApplication on Ved with PID 14360 (C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course\target\classes started by BED in C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course) 
+2019-04-13 22:04:33.217 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:679] - The following profiles are active: test 
+2019-04-13 22:04:34.316 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:59] - Started KafkaBeginnersCourseApplication in 1.599 seconds (JVM running for 2.786) 
+2019-04-13 22:04:34.407 [kafka-producer-network-thread | producer-1] [INFO ] [c.j.k.s.MessageProducerService:57] - Sent message=[ This is sample message. ] with offset=[ 4 ]  
+2019-04-13 22:04:34.413 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [INFO ] [c.j.k.s.MessageConsumerService:35] - Consumed message -> This is sample message. 
+2019-04-13 22:04:34.413 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [INFO ] [c.j.k.s.MessageConsumerService:35] - Consumed message -> This is sample message. 
+2019-04-13 22:04:34.414 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [INFO ] [c.j.k.s.MessageConsumerService:35] - Consumed message -> This is sample message. 
+2019-04-13 22:05:39.117 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:50] - Starting KafkaBeginnersCourseApplication on Ved with PID 14392 (C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course\target\classes started by BED in C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course) 
+2019-04-13 22:05:39.121 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:679] - The following profiles are active: test 
+2019-04-13 22:05:39.824 [main] [INFO ] [c.j.k.c.ApplicationConfig:66] - Creating Factory... 
+2019-04-13 22:05:40.223 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:59] - Started KafkaBeginnersCourseApplication in 1.584 seconds (JVM running for 2.838) 
+2019-04-13 22:05:40.323 [kafka-producer-network-thread | producer-1] [INFO ] [c.j.k.s.MessageProducerService:57] - Sent message=[ This is sample message. ] with offset=[ 5 ]  
+2019-04-13 22:05:40.332 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [INFO ] [c.j.k.s.MessageConsumerService:35] - Consumed message -> This is sample message. 
+2019-04-13 22:05:40.333 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [INFO ] [c.j.k.s.MessageConsumerService:35] - Consumed message -> This is sample message. 
+2019-04-13 22:05:40.333 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [INFO ] [c.j.k.s.MessageConsumerService:35] - Consumed message -> This is sample message. 
+2019-04-13 22:05:40.336 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [INFO ] [c.j.k.s.MessageConsumerService:35] - Consumed message -> This is sample message. 
+2019-04-13 22:06:02.747 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:50] - Starting KafkaBeginnersCourseApplication on Ved with PID 1920 (C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course\target\classes started by BED in C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course) 
+2019-04-13 22:06:02.753 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:679] - The following profiles are active: test 
+2019-04-13 22:06:03.458 [main] [INFO ] [c.j.k.c.ApplicationConfig:66] - Creating Factory... 
+2019-04-13 22:06:03.870 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:59] - Started KafkaBeginnersCourseApplication in 1.615 seconds (JVM running for 2.918) 
+2019-04-13 22:06:03.959 [kafka-producer-network-thread | producer-1] [INFO ] [c.j.k.s.MessageProducerService:57] - Sent message=[ This is sample message. ] with offset=[ 6 ]  
+2019-04-13 22:06:03.965 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [INFO ] [c.j.k.s.MessageConsumerService:35] - Consumed message -> This is sample message. 
+2019-04-13 22:06:03.966 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [INFO ] [c.j.k.s.MessageConsumerService:35] - Consumed message -> This is sample message. 
+2019-04-13 22:06:03.966 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [INFO ] [c.j.k.s.MessageConsumerService:35] - Consumed message -> This is sample message. 
+2019-04-13 22:06:03.969 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [INFO ] [c.j.k.s.MessageConsumerService:35] - Consumed message -> This is sample message. 
+2019-04-13 22:06:03.969 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [INFO ] [c.j.k.s.MessageConsumerService:35] - Consumed message -> This is sample message. 
+2019-04-13 22:13:19.558 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:50] - Starting KafkaBeginnersCourseApplication on Ved with PID 14560 (C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course\target\classes started by BED in C:\E_DRIVE\Workspaces\STS4_Work\kafka-beginners-course) 
+2019-04-13 22:13:19.560 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:679] - The following profiles are active: test 
+2019-04-13 22:14:20.668 [main] [ERROR] [c.j.k.KafkaBeginnersCourseApplication:65] - Exception occured: Failed to start bean 'org.springframework.kafka.config.internalKafkaListenerEndpointRegistry'; nested exception is org.apache.kafka.common.errors.TimeoutException: Timeout expired while fetching topic metadata  
+org.springframework.context.ApplicationContextException: Failed to start bean 'org.springframework.kafka.config.internalKafkaListenerEndpointRegistry'; nested exception is org.apache.kafka.common.errors.TimeoutException: Timeout expired while fetching topic metadata
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStart(DefaultLifecycleProcessor.java:185)
+	at org.springframework.context.support.DefaultLifecycleProcessor.access$200(DefaultLifecycleProcessor.java:53)
+	at org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup.start(DefaultLifecycleProcessor.java:360)
+	at org.springframework.context.support.DefaultLifecycleProcessor.startBeans(DefaultLifecycleProcessor.java:158)
+	at org.springframework.context.support.DefaultLifecycleProcessor.onRefresh(DefaultLifecycleProcessor.java:122)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:893)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:552)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.builder.SpringApplicationBuilder.run(SpringApplicationBuilder.java:139)
+	at com.java.kafka.KafkaBeginnersCourseApplication.main(KafkaBeginnersCourseApplication.java:49)
+Caused by: org.apache.kafka.common.errors.TimeoutException: Timeout expired while fetching topic metadata
+2019-04-13 22:14:20.676 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:69] - --------------------------------------------------------------------- 
+2019-04-13 22:14:20.680 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:70] - Kafka Beginners Course Application Completed Successfully. 
+2019-04-13 22:14:20.681 [main] [INFO ] [c.j.k.KafkaBeginnersCourseApplication:71] - --------------------------------------------------------------------- 
